@@ -109,7 +109,7 @@ importers:
         specifier: ^5.0.5
         version: 5.0.5
       rollup:
-        specifier: ^4.28.1
+        specifier: ^4.13.0
         version: 4.28.1
       rollup-plugin-banner2:
         specifier: ^1.2.2
